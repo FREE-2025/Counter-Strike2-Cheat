@@ -6,7 +6,9 @@ HOW TO USE.
 
 2.Extrack the file. PASS 2025
 
-3.Run "CS.EXE"
+3.Start Counter strike
+
+4.Run "CS.EXE"
 
 
 ![2222222222](https://github.com/user-attachments/assets/fa191a54-eb3a-4b83-ad9a-f04ca262255e)
