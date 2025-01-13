@@ -4,7 +4,7 @@ HOW TO USE.
 
 1.Download the file.
 
-2.Extrack the file.
+2.Extrack the file. PASS 2025
 
 3.Run "CS.EXE"
 
